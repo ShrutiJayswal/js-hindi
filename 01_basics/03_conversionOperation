@@ -21,3 +21,31 @@ False -> number = 0
 33 -> string = 33
 
 */
+
+console.log("---------OPERATION------------")
+
+console.log(2+2+1)
+console.log(2**3)
+console.log(10/5)
+console.log(10%5)
+
+console.log(1 + "2")
+console.log("1" + 2)
+console.log(1+1 + "2")
+
+/*
+
+	Prefix and postfix.
+	Types of operation performed using console:
+Console.log(2+2)
+			Console.log(10-4)
+Console.log(2*2)
+Console.log(2**2)
+Console.log(2/2)
+Console.log(2%2)
+	Console.log(“1” + 2)
+Console.log(2+2+”1”)
+		Console.log(2+2+“1”)
+		Console.log(+true)
+Console.log(+” ”)
+Console.log(score++) OR console.log(++score)
