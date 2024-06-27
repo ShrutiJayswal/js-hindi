@@ -1,0 +1,23 @@
+let str="33"
+let numstr=Number(str)
+
+console.log(numstr)
+console.log(typeof numstr)
+
+/*
+	NUMBER CONVERSION: 
+“33” ->  number = 33
+“33abc” -> number = NaN
+Null -> number = 0 
+Undefined -> number = NaN
+True -> number = 1
+False -> number = 0
+	BOOLEAN CONVERSION:
+0 -> Boolean = false
+1 -> Boolean = true
+“” -> Boolean = false
+“shruti” -> Boolean = true
+	STRING CONVERSION:
+33 -> string = 33
+
+*/
